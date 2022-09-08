@@ -21,3 +21,5 @@ console.log('ssssssss')
 
 
 console.log('ssssss')
+
+console.log(paniz());
