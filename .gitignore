@@ -1,4 +1,4 @@
-/node-madules
+node-madules/
 *.txti
 !d.txti
-/js
+js/
