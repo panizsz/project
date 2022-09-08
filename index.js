@@ -7,3 +7,5 @@ function paniz ( a ,b ){
     return sum
 }
 
+console.log(paniz(1,2));
+
