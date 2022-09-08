@@ -1,4 +1,4 @@
 node-madules/
 *.txti
 !d.txti
-js/
+index.js/
