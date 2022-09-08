@@ -15,4 +15,4 @@ function paniz ( a ,b ){
 
 console.log(paniz(1,2));
 
-
+console.log(paniz(10,5));
